@@ -1,0 +1,53 @@
+24 окт 2018 14:39:13,743 INFO       com.app.logging.Log4j2Example.main(Log4j2Example.java:12) -- This will be printed on info
+24 окт 2018 14:39:13,744 WARN       com.app.logging.Log4j2Example.main(Log4j2Example.java:13) -- This will be printed on warn
+24 окт 2018 14:39:13,744 ERROR      com.app.logging.Log4j2Example.main(Log4j2Example.java:14) -- This will be printed on error
+24 окт 2018 14:39:13,744 FATAL      com.app.logging.Log4j2Example.main(Log4j2Example.java:15) -- This will be printed on fatal
+24 окт 2018 14:39:13,744 INFO       com.app.logging.Log4j2Example.main(Log4j2Example.java:16) -- Appending string: Hello, World.
+24 окт 2018 14:40:18,727 INFO       com.app.logging.Log4j2Example.main(Log4j2Example.java:12) -- This will be printed on info
+24 окт 2018 14:40:18,728 WARN       com.app.logging.Log4j2Example.main(Log4j2Example.java:13) -- This will be printed on warn
+24 окт 2018 14:40:18,728 ERROR      com.app.logging.Log4j2Example.main(Log4j2Example.java:14) -- This will be printed on error
+24 окт 2018 14:40:18,729 FATAL      com.app.logging.Log4j2Example.main(Log4j2Example.java:15) -- This will be printed on fatal
+24 окт 2018 14:40:18,729 INFO       com.app.logging.Log4j2Example.main(Log4j2Example.java:16) -- Appending string: Hello, World.
+24 окт 2018 14:41:25,695 INFO       com.app.logging.Log4j2Example.main(Log4j2Example.java:12) -- This will be printed on info
+24 окт 2018 14:41:25,696 WARN       com.app.logging.Log4j2Example.main(Log4j2Example.java:13) -- This will be printed on warn
+24 окт 2018 14:41:25,696 ERROR      com.app.logging.Log4j2Example.main(Log4j2Example.java:14) -- This will be printed on error
+24 окт 2018 14:41:35,970 FATAL      com.app.logging.Log4j2Example.main(Log4j2Example.java:15) -- This will be printed on fatal
+24 окт 2018 14:41:46,055 INFO       com.app.logging.Log4j2Example.main(Log4j2Example.java:16) -- Appending string: Hello, World.
+24 окт 2018 14:44:48,111 INFO       com.app.logging.Log4j2Example.main(Log4j2Example.java:12) -- This will be printed on info
+24 окт 2018 14:44:48,112 WARN       com.app.logging.Log4j2Example.main(Log4j2Example.java:13) -- This will be printed on warn
+24 окт 2018 14:44:48,112 ERROR      com.app.logging.Log4j2Example.main(Log4j2Example.java:14) -- This will be printed on error
+24 окт 2018 14:45:09,194 FATAL      com.app.logging.Log4j2Example.main(Log4j2Example.java:15) -- This will be printed on fatal
+24 окт 2018 14:45:30,207 INFO       com.app.logging.Log4j2Example.main(Log4j2Example.java:16) -- Appending string: Hello, World.
+24 окт 2018 14:51:19,003 INFO       com.app.logging.Log4j2Example.main(Log4j2Example.java:12) -- This will be printed on info
+24 окт 2018 14:51:19,004 WARN       com.app.logging.Log4j2Example.main(Log4j2Example.java:13) -- This will be printed on warn
+24 окт 2018 14:51:19,004 ERROR      com.app.logging.Log4j2Example.main(Log4j2Example.java:14) -- This will be printed on error
+24 окт 2018 14:51:23,848 FATAL      com.app.logging.Log4j2Example.main(Log4j2Example.java:15) -- This will be printed on fatal
+24 окт 2018 14:51:28,607 INFO       com.app.logging.Log4j2Example.main(Log4j2Example.java:16) -- Appending string: Hello, World.
+24 окт 2018 14:52:04,101 INFO       com.app.logging.Log4j2Example.main(Log4j2Example.java:12) -- This will be printed on info
+24 окт 2018 14:52:04,102 WARN       com.app.logging.Log4j2Example.main(Log4j2Example.java:13) -- This will be printed on warn
+24 окт 2018 14:52:04,102 ERROR      com.app.logging.Log4j2Example.main(Log4j2Example.java:14) -- This will be printed on error
+24 окт 2018 14:52:08,901 FATAL      com.app.logging.Log4j2Example.main(Log4j2Example.java:15) -- This will be printed on fatal
+24 окт 2018 14:52:09,122 INFO       com.app.logging.Log4j2Example.main(Log4j2Example.java:16) -- Appending string: Hello, World.
+24 окт 2018 14:53:27,151 INFO       com.app.logging.Log4j2Example.main(Log4j2Example.java:12) -- This will be printed on info
+24 окт 2018 14:53:27,152 WARN       com.app.logging.Log4j2Example.main(Log4j2Example.java:13) -- This will be printed on warn
+24 окт 2018 14:53:27,152 ERROR      com.app.logging.Log4j2Example.main(Log4j2Example.java:14) -- This will be printed on error
+24 окт 2018 14:53:31,956 FATAL      com.app.logging.Log4j2Example.main(Log4j2Example.java:15) -- This will be printed on fatal
+24 окт 2018 14:53:32,178 INFO       com.app.logging.Log4j2Example.main(Log4j2Example.java:16) -- Appending string: Hello, World.
+24 окт 2018 14:54:51,570 INFO       com.app.logging.Log4j2Example.main(Log4j2Example.java:12) -- This will be printed on info
+24 окт 2018 14:54:51,571 WARN       com.app.logging.Log4j2Example.main(Log4j2Example.java:13) -- This will be printed on warn
+24 окт 2018 14:54:51,571 ERROR      com.app.logging.Log4j2Example.main(Log4j2Example.java:14) -- This will be printed on error
+24 окт 2018 14:54:56,370 FATAL      com.app.logging.Log4j2Example.main(Log4j2Example.java:15) -- This will be printed on fatal
+24 окт 2018 14:54:56,589 INFO       com.app.logging.Log4j2Example.main(Log4j2Example.java:16) -- Appending string: Hello, World.
+24 окт 2018 15:00:42,871 INFO       com.app.logging.Log4j2Example.main(Log4j2Example.java:12) -- This will be printed on info
+24 окт 2018 15:00:42,872 WARN       com.app.logging.Log4j2Example.main(Log4j2Example.java:13) -- This will be printed on warn
+24 окт 2018 15:00:42,872 ERROR      com.app.logging.Log4j2Example.main(Log4j2Example.java:14) -- This will be printed on error
+24 окт 2018 15:00:43,333 FATAL      com.app.logging.Log4j2Example.main(Log4j2Example.java:15) -- This will be printed on fatal
+24 окт 2018 15:00:43,406 INFO       com.app.logging.Log4j2Example.main(Log4j2Example.java:16) -- Appending string: Hello, World.
+24 окт 2018 15:01:05,993 INFO       com.app.logging.Log4j2Example.main(Log4j2Example.java:12) -- This will be printed on info
+24 окт 2018 15:01:05,994 WARN       com.app.logging.Log4j2Example.main(Log4j2Example.java:13) -- This will be printed on warn
+24 окт 2018 15:01:05,994 ERROR      com.app.logging.Log4j2Example.main(Log4j2Example.java:14) -- This will be printed on error
+24 окт 2018 15:02:46,957 INFO       com.app.logging.Log4j2Example.main(Log4j2Example.java:12) -- This will be printed on info
+24 окт 2018 15:02:46,958 WARN       com.app.logging.Log4j2Example.main(Log4j2Example.java:13) -- This will be printed on warn
+24 окт 2018 15:02:46,959 ERROR      com.app.logging.Log4j2Example.main(Log4j2Example.java:14) -- This will be printed on error
+24 окт 2018 15:02:53,548 FATAL      com.app.logging.Log4j2Example.main(Log4j2Example.java:15) -- This will be printed on fatal
+24 окт 2018 15:02:59,486 INFO       com.app.logging.Log4j2Example.main(Log4j2Example.java:16) -- Appending string: Hello, World.

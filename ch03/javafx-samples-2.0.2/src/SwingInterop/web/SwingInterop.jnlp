@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<jnlp spec="6.0" xmlns:jfx="http://javafx.com" href="SwingInterop.jnlp">
+  <information>
+    <title>Sample app: SwingInterop</title>
+    <vendor>Oracle</vendor>
+    <description>Sample Swing app embedding JavaFX components.</description>
+    <offline-allowed/>
+  </information>
+  <security>
+      <all-permissions/>
+  </security>
+  <resources>
+    <j2se version="1.6+" href="http://java.sun.com/products/autodl/j2se"/>
+    <jfx:javafx-runtime version="2.0+" href="http://javafx.com/jfx-20.exe"/>
+    <jar href="SwingInterop.jar" size="20000" download="eager" />
+  </resources>
+  <application-desc main-class="swinginterop.SwingInterop"/>
+  <update check="background"/>
+</jnlp>
